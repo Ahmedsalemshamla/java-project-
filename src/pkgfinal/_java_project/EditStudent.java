@@ -18,7 +18,8 @@ public class EditStudent extends javax.swing.JFrame {
         " wednesday 10-12"
     };
     String p;
-
+//bvnvbnvnbv
+    //hello
     public EditStudent(boolean c) {
         initComponents();
         m = this;
